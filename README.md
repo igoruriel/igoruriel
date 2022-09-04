@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Igor Uriel
+# 👋 Hi, I’m Igor Uriel
+
+## 🔮 About me
 - 🌱 I’m currently learning React and TypeScript
 - 📫 How to reach me igor.uriel1@gmail.com
 

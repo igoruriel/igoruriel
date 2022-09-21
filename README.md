@@ -2,7 +2,7 @@
 
 ## 🔮 About me
 - 🌱 I’m currently learning React and TypeScript
-- 📫 How to reach me <a href = "mailto:igor.uriel1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- 📫 How to reach me <a href = "mailto:igor.uriel1@gmail.com"><img style='margin-top: 10px' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
 <div>
